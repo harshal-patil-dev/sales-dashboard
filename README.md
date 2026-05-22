@@ -1,7 +1,7 @@
 # 📊 Sales Dashboard
 
-A modern and responsive Sales Dashboard built using **Next.js 15**, **TypeScript**, and **Tailwind CSS**.  
-The project follows **Atomic Design Architecture** for clean and scalable component organization.
+A modern and responsive **Sales Dashboard** built using **Next.js 15**, **TypeScript**, and **Tailwind CSS**.  
+This project follows **Atomic Design Architecture** for scalable and maintainable component structure.
 
 ---
 
@@ -16,13 +16,17 @@ The project follows **Atomic Design Architecture** for clean and scalable compon
 - 📦 Atomic Design Architecture
 - 📊 Interactive Bar & Line Charts
 - 🎛 Dynamic Sales Threshold Filtering
-- 📱 Fully Responsive UI
-- ⚡ Fast Performance with Next.js 15
-- 🎨 Clean and Modern Dashboard Design
+- 📱 Fully Responsive Dashboard
+- ⚡ Optimized Performance with Next.js 15
+- 🎨 Modern UI Design
 
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react" />
+</p>
 
 - Next.js 15 (App Router)
 - TypeScript
@@ -62,15 +66,14 @@ http://localhost:3000
 
 ## 📸 Preview
 
-<img width="100%" alt="Sales Dashboard Preview" src="https://github.com/user-attachments/assets/d5b49461-49ad-4c2c-8a01-356727f800dc" />
+![Sales Dashboard Preview](<img width="1880" height="882" alt="Screenshot 2026-05-22 105655" src="https://github.com/user-attachments/assets/65856eb2-7ca4-4b88-8fd6-cf5aa7caf639" />
+)
 
 ---
 
 ## 👨‍💻 Author
 
-**Harshal Patil**
+### Harshal Patil
 
 - GitHub: https://github.com/harshal-patil-dev
 - LinkedIn: https://www.linkedin.com/in/harshal-patil-dev
-
----
