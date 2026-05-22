@@ -7,7 +7,7 @@ The project follows **Atomic Design Architecture** for clean and scalable compon
 
 ## 🚀 Live Demo
 
-🔗 https://sales-dashboard-hazel-eight.vercel.app/
+🔗 https://sales-dashboard-hazel-eight.vercel.app
 
 ---
 
@@ -29,21 +29,6 @@ The project follows **Atomic Design Architecture** for clean and scalable compon
 - Tailwind CSS
 - Recharts
 - Lucide React
-
----
-
-## 📂 Project Structure
-
-```bash
-src/
- ┣ components/
- ┃ ┣ atoms/
- ┃ ┣ molecules/
- ┃ ┗ organisms/
- ┣ app/
- ┣ lib/
- ┗ styles/
-```
 
 ---
 
@@ -77,8 +62,7 @@ http://localhost:3000
 
 ## 📸 Preview
 
-<img width="100%" alt="Sales Dashboard Preview" src="<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/d5b49461-49ad-4c2c-8a01-356727f800dc" />
-"/>
+<img width="100%" alt="Sales Dashboard Preview" src="https://github.com/user-attachments/assets/d5b49461-49ad-4c2c-8a01-356727f800dc" />
 
 ---
 
