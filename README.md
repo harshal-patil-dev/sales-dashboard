@@ -7,7 +7,7 @@ This project follows **Atomic Design Architecture** for scalable and maintainabl
 
 ## 🚀 Live Demo
 
-🔗 https://sales-dashboard-hazel-eight.vercel.app
+🔗 https://sales-dashboard-hazel-eight.vercel.app/
 
 ---
 
