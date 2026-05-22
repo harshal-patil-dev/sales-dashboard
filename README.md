@@ -67,8 +67,8 @@ http://localhost:3000
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65856eb2-7ca4-4b88-8fd6-cf5aa7caf639" width="400"/>
-  <img src="https://github.com/user-attachments/assets/788ab754-fd23-43af-a824-94a54f15ce3a" width="400"/>
+  <img src="https://github.com/user-attachments/assets/a0df2bec-7c6a-4844-8db3-ff2d3110dd9f" width="400"/>
+  <img src="https://github.com/user-attachments/assets/9ac23baa-d097-47bc-b7b5-8f0a4c8db031" width="400"/>
 </p>
 
 ---
