@@ -1,22 +1,92 @@
-# Sales Dashboard
+# 📊 Sales Dashboard
 
-A modern, responsive sales dashboard built with Next.js 15, TypeScript, and Tailwind CSS. It follows Atomic Design principles to organize components cleanly.
+A modern and responsive Sales Dashboard built using **Next.js 15**, **TypeScript**, and **Tailwind CSS**.  
+The project follows **Atomic Design Architecture** for clean and scalable component organization.
 
-## 🚀 Features
-- **Atomic Design:** Organized into atoms, molecules, and organisms.
-- **Interactive Charts:** Toggle between Bar and Line charts using Recharts.
-- **Custom Filters:** Set a custom sales threshold to filter data dynamically.
-- **Responsive Layout:** Optimized for all screen sizes.
+---
+
+## 🚀 Live Demo
+
+🔗 https://sales-dashboard-hazel-eight.vercel.app/
+
+---
+
+## ✨ Features
+
+- 📦 Atomic Design Architecture
+- 📊 Interactive Bar & Line Charts
+- 🎛 Dynamic Sales Threshold Filtering
+- 📱 Fully Responsive UI
+- ⚡ Fast Performance with Next.js 15
+- 🎨 Clean and Modern Dashboard Design
+
+---
 
 ## 🛠️ Tech Stack
+
 - Next.js 15 (App Router)
 - TypeScript
 - Tailwind CSS
 - Recharts
 - Lucide React
 
-## 🏃‍♂️ How to Run
-1. Clone the repository.
-2. Install dependencies: `npm install`
-3. Run the development server: `npm run dev`
-4. Open [http://localhost:3000](http://localhost:3000)
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ┣ components/
+ ┃ ┣ atoms/
+ ┃ ┣ molecules/
+ ┃ ┗ organisms/
+ ┣ app/
+ ┣ lib/
+ ┗ styles/
+```
+
+---
+
+## ▶️ Getting Started
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/harshal-patil-dev/sales-dashboard.git
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+### 4️⃣ Open in Browser
+
+```bash
+http://localhost:3000
+```
+
+---
+
+## 📸 Preview
+
+<img width="100%" alt="Sales Dashboard Preview" src="<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/d5b49461-49ad-4c2c-8a01-356727f800dc" />
+"/>
+
+---
+
+## 👨‍💻 Author
+
+**Harshal Patil**
+
+- GitHub: https://github.com/harshal-patil-dev
+- LinkedIn: https://www.linkedin.com/in/harshal-patil-dev
+
+---
